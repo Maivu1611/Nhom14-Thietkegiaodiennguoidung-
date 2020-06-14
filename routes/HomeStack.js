@@ -17,7 +17,7 @@ export default function HomeStack(props) {
         options={{
           ...styles,
           ...titleStyle,
-          title: 'Tên ứng dụng',
+          title: 'MyMind',
           headerLeft: () => 
             <TouchableOpacity
               onPress={() => props.navigation.openDrawer()}
@@ -51,7 +51,7 @@ export default function HomeStack(props) {
 
 const styles = {
   headerStyle: {
-    backgroundColor: 'red'
+        backgroundColor: '#662d86'
   }
 }
 

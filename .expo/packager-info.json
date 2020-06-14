@@ -2,9 +2,9 @@
   "webpackServerPort": 19006,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 27708,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "packagerPid": 13232,
+  "expoServerNgrokUrl": "https://ta-f8g.maiv619.nhom14-thietkegiaodiennguoidung.exp.direct",
+  "packagerNgrokUrl": "https://packager.ta-f8g.maiv619.nhom14-thietkegiaodiennguoidung.exp.direct",
+  "ngrokPid": 4872,
   "devToolsPort": 19002
 }
