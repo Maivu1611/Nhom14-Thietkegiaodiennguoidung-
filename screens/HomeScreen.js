@@ -61,7 +61,7 @@ export default function HomeScreen({navigation}){
                                                 marginLeft: 10,
                                                 
                                             }}
-                                                source={require('../assets/radio.png')}
+                                                source={{ uri: item.icon }}
                                             />
                                         </View>
                                     </View>
